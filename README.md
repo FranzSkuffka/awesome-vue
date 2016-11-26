@@ -575,8 +575,8 @@
   - [vue-msgbox ★46](https://github.com/ElemeFE/vue-msgbox): message box (like Sweet Alert) plugin for Vuejs [@ElemeFE](https://github.com/ElemeFE)
   - [vue-scroll ★12](https://github.com/suguangwen/vue-scroll): add scroll up function and optimize the origin algorithm. Reference to ElemeFE/vue-infinite-scroll.  [@suguangwen](https://github.com/suguangwen)
   - [vue-click-outside ★2](https://github.com/vue-bulma/click-outside): ClickOutside directive for Vue.  [@fundon](https://github.com/fundon)
-  - [vue-medium-editor](https://github.com/FranzSkuffka/vue-medium-editor): MediumEditor directive / plugin for Vue 1 and 2.  [@franzskuffka](https://github.com/franzskuffka)
-  - [vue-medium.js ★7](https://github.com/FranzSkuffka/vue-medium.js): Medium.js directive for Vue.  [@franzskuffka](https://github.com/franzskuffka)
+  - [vue-medium-editor / vue2-medium-editor](https://github.com/FranzSkuffka/vue-medium-editor) [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/FranzSkuffka/vue-medium-editor) - MediumEditor directive / component for Vue 1 and 2.  [@franzskuffka](https://github.com/franzskuffka)
+  - [vue-medium.js](https://github.com/FranzSkuffka/vue-medium.js) [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/FranzSkuffka/vue-medium.js) - Medium.js directive for Vue.  [@franzskuffka](https://github.com/franzskuffka)
   - [vue-electron ★25](https://github.com/SimulatedGREG/vue-electron): The vue plugin that attaches electron APIs to the Vue object, making them accessable to all components.
   - [vue-router-transition ★16](https://github.com/weinot/vue-router-transition): A page transition plugin for vue-router.
   - [vue-input-autosize ★1](https://github.com/syropian/vue-input-autosize): A simple Vue.js directive to autosize text input fields.
